@@ -1,0 +1,5 @@
+C:\Documents and Settings\sputnam\My Documents\Visual Studio 2005\Projects\HistogramEqualization\CustomControls\bin\Debug\CustomControls.dll
+C:\Documents and Settings\sputnam\My Documents\Visual Studio 2005\Projects\HistogramEqualization\CustomControls\bin\Debug\CustomControls.pdb
+C:\Documents and Settings\sputnam\My Documents\Visual Studio 2005\Projects\HistogramEqualization\CustomControls\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sputnam\My Documents\Visual Studio 2005\Projects\HistogramEqualization\CustomControls\obj\Debug\CustomControls.dll
+C:\Documents and Settings\sputnam\My Documents\Visual Studio 2005\Projects\HistogramEqualization\CustomControls\obj\Debug\CustomControls.pdb

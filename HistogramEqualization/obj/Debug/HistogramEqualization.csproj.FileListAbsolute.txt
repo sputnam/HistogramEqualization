@@ -1,0 +1,11 @@
+C:\Users\sputnam\Documents\Apps\HistogramEqualization\HistogramEqualization\obj\Debug\HistogramEqualization.exe
+C:\Users\sputnam\Documents\Apps\HistogramEqualization\HistogramEqualization\obj\Debug\HistogramEqualization.pdb
+C:\Users\sputnam\Documents\Apps\HistogramEqualization\HistogramEqualization\bin\Debug\HistogramEqualization.exe
+C:\Users\sputnam\Documents\Apps\HistogramEqualization\HistogramEqualization\bin\Debug\HistogramEqualization.pdb
+C:\Users\sputnam\Documents\Apps\HistogramEqualization\HistogramEqualization\bin\Debug\CustomControls.dll
+C:\Users\sputnam\Documents\Apps\HistogramEqualization\HistogramEqualization\bin\Debug\CustomControls.pdb
+C:\Users\sputnam\Documents\Apps\HistogramEqualization\HistogramEqualization\obj\Debug\HistogramEqualization.csprojResolveAssemblyReference.cache
+C:\Users\sputnam\Documents\Apps\HistogramEqualization\HistogramEqualization\obj\Debug\HistogramEqualization.Form1.resources
+C:\Users\sputnam\Documents\Apps\HistogramEqualization\HistogramEqualization\obj\Debug\CustomControls.HistogramPanel.resources
+C:\Users\sputnam\Documents\Apps\HistogramEqualization\HistogramEqualization\obj\Debug\HistogramEqualization.Properties.Resources.resources
+C:\Users\sputnam\Documents\Apps\HistogramEqualization\HistogramEqualization\obj\Debug\HistogramEqualization.csproj.GenerateResource.Cache

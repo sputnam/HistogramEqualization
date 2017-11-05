@@ -1,0 +1,11 @@
+C:\Documents and Settings\sputnam\My Documents\Visual Studio 2005\Projects\HistogramEqualization\HistogramEqualization\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sputnam\My Documents\Visual Studio 2005\Projects\HistogramEqualization\HistogramEqualization\obj\Debug\HistogramEqualization.Form1.resources
+C:\Documents and Settings\sputnam\My Documents\Visual Studio 2005\Projects\HistogramEqualization\HistogramEqualization\obj\Debug\HistogramEqualization.Properties.Resources.resources
+C:\Documents and Settings\sputnam\My Documents\Visual Studio 2005\Projects\HistogramEqualization\HistogramEqualization\obj\Debug\HistogramEqualization.csproj.GenerateResource.Cache
+C:\Documents and Settings\sputnam\My Documents\Visual Studio 2005\Projects\HistogramEqualization\HistogramEqualization\bin\Debug\HistogramEqualization.pdb
+C:\Documents and Settings\sputnam\My Documents\Visual Studio 2005\Projects\HistogramEqualization\HistogramEqualization\obj\Debug\HistogramEqualization.pdb
+C:\Documents and Settings\sputnam\My Documents\Visual Studio 2005\Projects\HistogramEqualization\HistogramEqualization\bin\Debug\CustomControls.dll
+C:\Documents and Settings\sputnam\My Documents\Visual Studio 2005\Projects\HistogramEqualization\HistogramEqualization\bin\Debug\CustomControls.pdb
+C:\Documents and Settings\sputnam\My Documents\Visual Studio 2005\Projects\HistogramEqualization\HistogramEqualization\bin\Debug\HistogramEqualization.exe
+C:\Documents and Settings\sputnam\My Documents\Visual Studio 2005\Projects\HistogramEqualization\HistogramEqualization\obj\Debug\HistogramEqualization.exe
+C:\Documents and Settings\sputnam\My Documents\Visual Studio 2005\Projects\HistogramEqualization\HistogramEqualization\obj\Debug\CustomControls.HistogramPanel.resources
